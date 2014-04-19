@@ -1,3 +1,4 @@
+==================================================================
 https://keybase.io/ericpeden
 --------------------------------------------------------------------
 
@@ -25,42 +26,44 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1397757770,
+    "ctime": 1397872745,
     "expire_in": 157680000,
-    "prev": "c6af95ddcd8de06e3e274705749ccfb786888761d0e68f60e811cf6971b42b46",
-    "seqno": 7,
+    "prev": "3898c7c66103382227b7b817eb140b96e002b9068889333a3a38e9646e47594c",
+    "seqno": 8,
     "tag": "signature"
 }
 
 with the aforementioned key, yielding the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v1
+Version: GnuPG v2.0.14 (GNU/Linux)
 
-owGbwMvMwMQYl7b++8So+Y2Mpw98TmIIDhD3qlZKyk+pVLKqVspOBVNpmXnpqUUF
-RZl5JUpWSobGaUYpBoZGyZaWKUkWqYkW5iamSWamRqbGpmmGSWbJxmkGlmYWFolK
-OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQFKjezdDJzNnYDazeEShXCpYwSDI2NU61
-SEk1SUlMTkoxMkpNTDYzSUlNMUpOTDQwMAApLE4tykvMTQWqTi3KTC5ITUnNU6rV
-UQIKl2Ump4IcDbIbXYlecn4uUHdBUX5JfnJ+DlAqo6SkwAqks6SyAKS0PDUpHmpI
-fFJmXgrQ50ANZalFxZn5eUpWhkCVySWZIFMNjS3NzU3Nzc0NdJRSKwoyi1LjM0Eq
-TM3NLICONABZk1oGNDLZLDHN0jQlJTkF6CUDs1TjVCNzE3MDU3MTy+TktCRzC6Dn
-LczNDFMMUs0s0swMUi0MDZPTzCzNDZNMjJJMzJRA3irMy1eyMgc6MzEdaGRxZnpe
-YklpUapSbSeTDAsDIxMDGysTKO4YuDgFYDG6fIsAw6O53xd7nbv1zqVjtbb8kbcR
-CbvWXN556tfH+U/FzMs3Nk7U1mUXnfbmZUTXipslX97crj1a1+L7r3b7tx0X/Y9W
-bX51soUr/fHJG7Ix8bdk7mzgXcHMuPFP6Xnb+MJyuXtvZr9c8fKpRe6u+/s/+30q
-vaoQw1r9UeiXx95Hiswh976fblC66a7f8Jf/U+AGk2sLtDdcUTiTmqqkbswuxzxp
-SkLbqxY5iQ0LxRMZVTrv/sp/uEBHYNWNHc+0u5n8MmxCt01Tr3eeeOUAw+uUjbP/
-L5//qS/lmGvj1ckqJ7L1tmpV/g7oTDC9u+GW4ERX9XpN4+m5TOfd/T6uy5Bs/Dbf
-on3qivWd/s53WTMuBXIHSNZ9tZzTcDP0l1jXhgb3gsyGSrX5396unS3zRTn931rL
-Xb/k3y6YN1/nK8Oj6D/7jGSETP4UPI1MNdVZMqN63UELzmeSZz+mR+e7GBnv5ltu
-m/nGauUki38vNnL/e/Ej4Rabh/6jS69n3du7eZ3Kiq8HGL1UO0LFbi37zPOv+Xrc
-Oyb1xPgQf6Pjiv0mvByMkYFX5oXmsDI9f+QtULbdv+TVwwKL13ytUybPDxZi+rfy
-08ffK3deWuUk/LP+GM/nEs+t+5kjlu2PkTY8l5MtmhT3es8n7q1OB9v2p2gHr99S
-WOSfaNuywefiEZ/t3jE5eycKaNvFPCvbILLalj2Pafv3hIxdj+Y7JIrlnbkAAA==
-=B1rz
+owGbwMvMwMQYl7b++8So+Y2Mpw98TmIIDryRX62UlJ9SqWRVrZSdCqbSMvPSU4sK
+ijLzSpSslAyN04xSDAyNki0tU5IsUhMtzE1Mk8xMjUyNTdMMk8ySjdMMLM0sLBKV
+dJQy8otBOoDGJCUWp+pl5gPFgJz4zBSgKFC9m6GTmbOxG1i9I1CuFCxhkGRsapxq
+kZJqkpKYnJRiZJSamGxmkpKaYpScmGhgYABSWJxalJeYmwpUnVqUmVyQmpKap1Sr
+owQULstMTgU5GmQ3uhK95PxcoO6CovyS/OT8HKBURklJgRVIZ0llAUhpeWpSPNSQ
++KTMvBSgz4EaylKLijPz85SsDIEqk0syQaYaGluaW5gbAT2vo5RaUZBZlBqfCVJh
+am5mAXSkAcia1DKgkcYWlhbJ5slmZoYGxsYWRkZG5knmSRaG5qlJhiYGSZZmqQYG
+RkmWBsAgsLA0NjZOBEKLVEszE7NUE3NTS5NkJZC3CvPylawsgM5MTAcaWZyZnpdY
+UlqUqlTbySTDwsDIxMDGygSKOwYuTgFYjPKt4f+nxL4163X0ha2a67dNk/2dn/vP
+6SYT94bJb97Mv3H1lZa+0QHDor0XC72c33fVCXbfe5OSn/v8wJRizQMh9s3n54p9
+URZ+b8lbH1c5a8u+OtdAN/mV2+oE/lc9Pcz2KnCDZdTNjCMqO3bNTVS491uH7ziT
+q6ZyxtqJN2xZT3n7MnZypRjF3hZ/eKT4n+xNfscdFgLCXfqhosc84uyz+YPNgr8+
+lzoseEP1+yzVTXpce1ZWGXqusXwk/Vzge+JamXVTVh1x8X/zvCfw2/kXVV8igs0W
+plsVRq58zC513nZtxqo2lqYtJ1e3RH7ytNsv8rOV59q0SZ+2iKa9vSdUWOkq9PfC
+zjy/Ty3uRrMSJPa3nHsc89V4yvvlW3dwiU1ql9+0SjP+kADHDDt3/U03Ix+Lyzet
+aDc9lcb5/ssukVU7NA5eLZGT3GMhGc20d0GF6cHAX4xVj7Sv+HNNPLK2d3mupKvO
+huQimRdvAlqev1DuiJrKvcIguF1gfcCLqlkC9vsV/6yeU3pks4BajLqEX+qSOd9c
+nILW/9jPH7VLZmML78YFr7pnKTQuVw/s8fy1L3di3/Tg9yuyO/NN21aYbcoRViy5
+UBJqYGT+TzRg2pqdi7qjNQ6FX2BWXvTQbftU2dtHjnhHlydcj10dadCZ8fX9+Rt3
+tp3uSJgQePtoubdhzpsOd9sq4abQmuN8pr1XNHgi/5+qP7jB1LRhQxIA
+=rtq4
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/ericpeden
+
+==================================================================
